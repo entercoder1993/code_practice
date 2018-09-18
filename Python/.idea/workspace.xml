@@ -43,11 +43,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/executive_information_system/step_1/use_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="184" column="6" selection-start-line="184" selection-start-column="6" selection-end-line="184" selection-end-column="6" />
+            <state relative-caret-position="433">
+              <caret line="181" column="9" lean-forward="true" selection-end-line="184" selection-end-column="62" />
               <folding>
                 <marker date="1537283860902" expanded="true" signature="1253:1258" ph="..." />
               </folding>
@@ -55,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/executive_information_system/step_2/stored_record.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -122,11 +122,6 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="auto_input" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="executive_information_system" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -134,6 +129,12 @@
               <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="executive_information_system" type="462c0819:PsiDirectoryNode" />
               <item name="step_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="executive_information_system" type="462c0819:PsiDirectoryNode" />
+              <item name="step_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -231,6 +232,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="22" width="960" height="1013" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945533" />
@@ -271,18 +273,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/executive_information_system/step_2/stored_record.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/executive_information_system/step_1/use_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="184" column="6" selection-start-line="184" selection-start-column="6" selection-end-line="184" selection-end-column="6" />
+        <state relative-caret-position="433">
+          <caret line="181" column="9" lean-forward="true" selection-end-line="184" selection-end-column="62" />
           <folding>
             <marker date="1537283860902" expanded="true" signature="1253:1258" ph="..." />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/executive_information_system/step_2/stored_record.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
