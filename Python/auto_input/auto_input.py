@@ -60,7 +60,7 @@ def input_info(browser, username):
     verify_code = browser.find_element_by_id('rand')
     button = browser.find_element_by_id('loginBtn')
     user_name.send_keys(username)
-    password.send_keys('lhxq123456')
+    password.send_keys('123456')
     # code_input = input('verify_code:')
     verify_code.send_keys(code_input)
     button.click()
